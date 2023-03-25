@@ -103,3 +103,8 @@ footer
         display: none;
     }
 }
+
+.description {
+    position: relative;
+    left:160px;
+}
